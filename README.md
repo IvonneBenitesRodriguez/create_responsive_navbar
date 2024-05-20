@@ -54,7 +54,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com/IvonneBenitesRodriguez/my_coffee_elections.git
+  git clone git@github.com/IvonneBenitesRodriguez/create_responsive_navbar.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
